@@ -1,0 +1,31 @@
+{
+  "name": "com.arparec.marrowplus",
+  "version": "1.0.0",
+  "displayName": "Marrow Plus",
+  "description": "Marrow SDK, but better!",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.stresslevelzero.static-batching": "https://github.com/StressLevelZero/CustomStaticBatching.git",
+    "com.arparec.asecomshaders": "https://github.com/ArpaRec/ASECommunityShaders.git",
+    "com.arparec.strata": "https://github.com/ArpaRec/StrataEngine.git",
+    "com.holadivinus.blpreviewtool": "https://github.com/holadivinus/BL-PreviewTool.git",
+    "com.holadivinus.blxrcomp": "https://github.com/holadivinus/BLXRComp.git",
+    "com.lakatrazz.marrowextrashaders": "https://github.com/Lakatrazz/Marrow-Extra-Shaders.git",
+    "com.lightbuzz.tarball": "https://github.com/LightBuzz/Unity-Package-Export.git",
+    "com.ltk.materialconverter": "https://github.com/TeckUnity/MaterialConverter.git",
+    "com.maranara.marrowflasks": "https://github.com/maranarasauce/MarrowFlasks.git",
+    "com.stresslevelzero.marrow.sdk.extended": "https://github.com/ArpaRec/MarrowExtDeduping.git",
+  },
+  "keywords": [
+    "slz",
+    "stresslevelzero",
+    "marrow"
+  ],
+  "author": {
+    "name": "ArpaRec",
+    "email": "realtechside@gmail.com",
+    "url": "https://arparec.xyz/"
+  },
+  "unityRelease": "16f1",
+  "hideInEditor": false
+}
