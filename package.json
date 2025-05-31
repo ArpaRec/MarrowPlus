@@ -14,7 +14,7 @@
     "com.lightbuzz.tarball": "https://github.com/LightBuzz/Unity-Package-Export.git",
     "com.ltk.materialconverter": "https://github.com/TeckUnity/MaterialConverter.git",
     "com.maranara.marrowflasks": "https://github.com/maranarasauce/MarrowFlasks.git",
-    "com.stresslevelzero.marrow.sdk.extended": "https://github.com/ArpaRec/MarrowExtDeduping.git",
+    "com.stresslevelzero.marrow.sdk.extended": "https://github.com/ArpaRec/MarrowExtDeduping.git"
   },
   "keywords": [
     "slz",
